@@ -1,9 +1,0 @@
-@charset "UTF-8";
-
-.wrapper grid {
-  display:grid;
-  gap:26px;
-  grid-template-culmns:1fr 1fr;
-  margin-top:30% 
-   }
-
