@@ -1,1 +1,26 @@
+@charset "UTF-8";
+
+.wrapper {
+    width:600px;
+    margin:0 auto;
+}
+
+
+.grid {
+    display:grid;
+    gap:28px;
+    grid-template-columns:1fr 1fr;
+    margin-top:30%;
+    
+
+}
+.item  {
+
+    font-family:serif;
+    font-size:16px;
+    font-weight:bolder;
+    text-align: center;
+    
+
+}
 
