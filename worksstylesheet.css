@@ -6,7 +6,8 @@
 }
 
 .grid {
-    display:flex;
+    display:grid;
+    grid-template-colums:repeat(2 1fr);
     
 
 .item  {
