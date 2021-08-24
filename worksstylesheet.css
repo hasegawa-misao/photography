@@ -1,8 +1,7 @@
 @charset "UTF-8";
 
+.wrapper {
+   margin-top:30%;
+   margin:0 auto;
+   }
 
-.grid {
-   display:grid;
-   gap:26px;
-   grid-template-culmns:1fr 1fr;
-}
