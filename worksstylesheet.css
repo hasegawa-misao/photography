@@ -1,9 +1,6 @@
 @charset "UTF-8";
 
-.wrapper {
-    width:600px;
-    margin:0 auto;
-}
+
 .grid {
     display:grid;
     gap:26px;
