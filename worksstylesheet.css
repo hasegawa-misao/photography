@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 .wrapper {
-    width:400px;
+    width:200px;
     margin:0 auto;
 }
 
@@ -9,7 +9,7 @@
     display:grid;
     gap:26px;
     grid-template-columns: 1fr 1fr;
-    margin-top:15%;
+    margin-top:10%;
     margin-bottom:50px;
     
 }
