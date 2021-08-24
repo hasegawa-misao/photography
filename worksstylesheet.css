@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.wrapper {
+    width:600px;
+    margin:0 auto;
+}
+
+.grid {
+    display:grid;
+    gap:26px;
+    grid-template-columns: 1fr 1fr;
+    margin-top:15%;
+    margin-bottom:50px;
+    
+}
