@@ -5,9 +5,7 @@
     margin:0 auto;
 }
 
-.grid {
-    display:grid;
-    grid-template-colums:repeat(2 1fr);
+
     
 
 .item  {
