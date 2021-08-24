@@ -6,14 +6,7 @@
 }
 
 
-.grid {
-    display:grid;
-    gap:28px;
-    grid-template-columns:2 1fr;
-    margin-top:30%;
-    
 
-}
 .item  {
 
     font-family:serif;
