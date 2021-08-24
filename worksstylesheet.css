@@ -1,5 +1,9 @@
 @chaset "utf-8";
 
+.wrapper {
+  width:800px;
+  }
+
 .item {
   margin-top:300px;
   margin:0 auto;
