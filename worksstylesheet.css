@@ -4,8 +4,11 @@
     width:600px;
     margin:0 auto;
 }
-.item {
-    margin-top:200px;
+.grid {
+    display:grid;
+    gap:26px;
+    grid-template-columns:1fr 1fr;
+    margin-top:30%;
+    margin-bottom:50px;
     }
-
 
