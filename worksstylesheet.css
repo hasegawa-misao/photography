@@ -6,7 +6,8 @@
 }
 
 .grid {
-    display:grid;
+    display:flex;
+    
 
 .item  {
  
