@@ -60,11 +60,7 @@ aside {
 
 
 }
-@media (max-width: 600px) {
- main {
-  background:url(30430028.jpg);
-  }
- }
+
 
 main {
   float:left;
