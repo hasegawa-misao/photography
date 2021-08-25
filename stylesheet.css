@@ -5,6 +5,8 @@
   padding:0;
 }
 
+ 
+ 
 body{
   font-family:serif;
 
@@ -58,6 +60,12 @@ aside {
 
 
 }
+@media (max-width: 600px) {
+ main {
+  background:url(30430028.jpg)no-repeat;
+  }
+ }
+
 main {
   float:left;
   background:url(30430028.jpg)no-repeat;
