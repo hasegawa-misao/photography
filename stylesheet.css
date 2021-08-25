@@ -70,8 +70,10 @@ main {
 }
 footer {
   text-align:right;
-  padding-right:50px;
+ 
 }
+fotter p {
+ font-size:0.875rem;
 
 
 .cearfix::after {
