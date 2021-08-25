@@ -74,11 +74,7 @@ main {
 
 }
  
-footer p {
- font-size:0.875rem;
- text-align:right;
- 
- }
+
 
 
 .cearfix::after {
@@ -86,5 +82,6 @@ footer p {
   display:block;
   clear: both;
 }
+
 
  
