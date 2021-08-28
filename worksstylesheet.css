@@ -8,9 +8,15 @@
     max-width:800px;
     margin:0 auto;
     margin-top: 10%;
-    padding-bottom: 50px;
     
 }
+
+.item {
+    display: flex;
+    flex-flow: column ;
+    margin-bottom: 50px;
+     
+     }
 
 
 
