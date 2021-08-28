@@ -6,7 +6,10 @@
 
 .wrapper {
      max-width:800px;
+     display: flex;
+     flex-content: column;
      
+     }
      
 
 .clearfix::after {
