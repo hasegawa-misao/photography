@@ -1,16 +1,6 @@
 @charset "UTF-8";
 
-@media (max-width:768px) {
-    .pc {
-        display:flex;
-        flex-flow :column;
-}
-    .cearfix::after {
-  content: "";
-  display:block;
-  clear: both;
-}
-       
+   
     
 }
 .wrapper {
@@ -24,16 +14,12 @@
 .grid {
     display:grid;
     gap:26px;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns:repeat(2,minmax(240px,1fr);
     margin-bottom:50px;
     
 }
 
-.cearfix::after {
-  content: "";
-  display:block;
-  clear: both;
-}
+
 
 
 
