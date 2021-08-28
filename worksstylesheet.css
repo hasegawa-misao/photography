@@ -3,7 +3,7 @@
 @media (max-width:768px) {
     .item {
         display:flex;
-        flexdirection:culumn;
+        flex-direction:culumn;
         align-items:center;
         width:80%;
 }
