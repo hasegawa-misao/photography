@@ -1,13 +1,6 @@
 @charset "UTF-8";
 
-@media (max-width:768px) {
-     .item {
-          display: flex;
-          flex-flow: column;
-          width: 60%;
-          
-          }
-     }
+
 
 
 .wrapper {
@@ -19,6 +12,14 @@
      margin-top: 10%;
      margin-bottom: 60px;
      
+     }
+@media (max-width:768px) {
+     .item {
+          display: flex;
+          flex-flow: column;
+          width: 60%;
+          
+          }
      }
      
 
