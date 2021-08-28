@@ -5,8 +5,8 @@
       width: 50%;
       }
    .grid {
-      display: flex;
-      flex-flow: column ;
+      display: grid;
+      grid-template-columns: 1fr ;
       }
    }
 
