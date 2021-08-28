@@ -8,15 +8,14 @@
     max-width:800px;
     margin:0 auto;
     margin-top: 10%;
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    margin-bottom:30px;
     
 }
 
-.item {
-    display: flex;
- 　 justify-content: center;
-    align-items: center; 
-     
-     }
+
 
 
 
