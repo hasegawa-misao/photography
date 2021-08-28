@@ -5,23 +5,14 @@
 
 
 .wrapper {
-    max-width:600px;
+    max-width:800px;
     margin:0 auto;
     margin-top: 15%;
-    padding:0 4%;
+    padding:20px;
     
 }
 
-.grid {
-    display:grid;
-    gap:26px;
-    grid-template-columns: 1fr 1fr;
-    
-    margin-bottom:50px;
-   
-   
-    
-}
+
 
 
 
