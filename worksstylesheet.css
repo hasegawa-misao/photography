@@ -11,8 +11,9 @@
      margin-bottom: 60px;
      
      }
+
 @media (max-width:768px) {
-     .item {
+     .wrapper {
           max-width: 240px;
           display: flex;
           flex-flow: column;
