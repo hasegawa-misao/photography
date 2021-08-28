@@ -1,8 +1,6 @@
 @charset "UTF-8";
 
 
-
-
 .wrapper {
      max-width: 800px;
      margin: 0 auto;
@@ -15,9 +13,10 @@
      }
 @media (max-width:768px) {
      .item {
+          max-width: 240px;
           display: flex;
           flex-flow: column;
-          width: 60%;
+          
           
           }
      }
