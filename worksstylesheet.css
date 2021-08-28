@@ -1,14 +1,10 @@
 @charset "UTF-8";
 
 @media screen (max-width:768px) {
-    .wrapper {
-      margin:0 auto;
-      }
-  
-    .grid {
-      display:grid;
-      grid-template-culumns:1fr ;
-      margin-bottom:50px;
+    .wrapper grid {
+        display:flex;
+        flex-direction:column;
+        text-align:center;
         
         
 }
