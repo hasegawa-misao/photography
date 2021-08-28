@@ -1,10 +1,12 @@
 @charset "UTF-8";
 
 @media (max-width:768px) {
-    .pc {
-        display:none;
-        }
-    
+  
+  aside,
+  main {
+      width:100%;
+      }
+     
 }
 
 *{
