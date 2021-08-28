@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+body {
+     backgroundcolor:#f0ffff;
+
 
 .wrapper {
      max-width: 800px;
@@ -9,7 +12,7 @@
      text-align: center;
      margin-top: 10%;
      margin-bottom: 100px;
-     background-color:#ff00f0;
+  
      
      }
 
