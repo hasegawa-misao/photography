@@ -4,7 +4,8 @@
      .pc {
         display:none;
          }
-   background-color:#f0ffff;
+   body {
+        background-color:#f0ffff;
      }
    }
 
