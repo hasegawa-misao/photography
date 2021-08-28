@@ -12,15 +12,7 @@
      
      }
 
-@media (max-width:768px) {
-     .wrapper {
-          max-width: 240px;
-          display: flex;
-          flex-flow: column;
-          
-          
-          }
-     }
+
      
 
 
