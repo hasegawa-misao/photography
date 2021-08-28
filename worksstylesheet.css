@@ -2,9 +2,10 @@
 
 @media (max-width:768px) {
     .wrapper {
-      margin:0 auto;
         }
     
+    
+
     .grid {
         display:flex;
         flex-direction:column;
