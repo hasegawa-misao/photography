@@ -4,6 +4,10 @@
    .wrapper {
       width:100%;
       }
+   .grid {
+      display: flex;
+      flex-flow: column ;
+      }
    }
 
    
