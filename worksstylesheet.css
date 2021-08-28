@@ -5,7 +5,7 @@
 
 
 .wrapper {
-    max-width:800px;
+    width:800px;
     display: flex;
     justify-content: space-between;
     text-align: center;
