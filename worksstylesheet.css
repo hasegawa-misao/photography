@@ -1,6 +1,12 @@
 @charset "UTF-8";
 
-@media screen (max-width:768px) {
+@media (max-width:768px) {
+    .item {
+        display:flex;
+        flexdirection:culumn;
+        align-items:center;
+        width:80%;
+}
     
 }
 .wrapper {
