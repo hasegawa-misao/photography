@@ -14,7 +14,7 @@
     display:grid;
     gap:26px;
     grid-template-columns: 1fr 1fr;
-    text-align:center;
+    margin:0 auto;
     margin-bottom:50px;
    
    
