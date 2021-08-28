@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @media only screen and (max-width: 600px) {
-    .pc { display: block !important; }
-    .sp { display: none !important; }
+    .pc { display: block ; }
+    .sp { display: none ; }
     }
 *{
   margin:0;
@@ -71,8 +71,8 @@ main {
   widh:600px;  
   
 }
-.pc { display: block !important; }
-.sp { display: none !important; }
+.pc { display: block; }
+.sp { display: none ; }
 
 
 
