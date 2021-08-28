@@ -1,12 +1,6 @@
 @charset "UTF-8";
 
-@media (max-width: 768px) {
-   .grid {
-      display:none ;
-}
-   
-   }
-    
+
 
 .wrapper {
     max-width:600px;
