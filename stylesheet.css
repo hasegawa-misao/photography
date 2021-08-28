@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @media only screen and (max-width: 6000px) {
     .pc { display: none ; }
-    .sp { display: ; }
+    .sp { display: block ; }
     }
 *{
   margin:0;
