@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
+@media (max-width:768px) {
+   .wrapper {
+      width:100%;
+      margin:0 auto;
+      }
+   .grid {
+      display:flex;
+      flex-flow:column;
+      }
+   }
+
    
     
 
