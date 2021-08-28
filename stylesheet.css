@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
-
+@media (max-width:768px) {
+  img {
+    display:none;
+}
 
 *{
   margin:0;
