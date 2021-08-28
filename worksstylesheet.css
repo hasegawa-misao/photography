@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
 @media screen (max-width:768px) {
-    .wrapper grid {
+    .grid {
         display:flex;
-        flex-direction:column;
+        flex-flow :column;
         text-align:center;
         
         
