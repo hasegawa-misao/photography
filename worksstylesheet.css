@@ -1,5 +1,8 @@
 @charset "UTF-8";
-
+@media screen (max-width:768px) {
+    flex-direction: column;
+    }
+}
 .wrapper {
     max-width:600px;
     margin:0 auto;
