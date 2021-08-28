@@ -1,6 +1,13 @@
 @charset "UTF-8";
 
-
+@media (max-width:768px) {
+     .item {
+          display: flex;
+          flex-flow: column;
+          width: 60%;
+          
+          }
+     }
 
 
 .wrapper {
@@ -15,14 +22,7 @@
      }
      
 
-@media (max-width:768px) {
-     .wrapper {
-          display: flex;
-          flex-flow: column;
-          width: 60%;
-          
-          }
-     }
+
 
 .clearfix::after {
      content:"";
