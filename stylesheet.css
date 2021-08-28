@@ -1,16 +1,6 @@
 @charset "UTF-8";
 
-@media (max-width:768px) {
-     .pc {
-        display:none;
-         }
-     #wrapper {
-        background-color:#f0ffff;
-          }
-  
-   }
 
- 
 body{
   font-family:serif;
   background-color:#f0ffff;
@@ -74,6 +64,15 @@ main {
   
 }
 
+@media (max-width:768px) {
+     .pc {
+        display:none;
+         }
+     #wrapper {
+        background-color:#f0ffff;
+          }
+  
+   }
 
 
 
