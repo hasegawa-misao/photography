@@ -2,10 +2,10 @@
 
 @media screen (max-width:768px) {
   
-    .grid {
+    .item {
         display:flex;
         flex-direction:column;
-        width:80%;
+        
         
 }
     
