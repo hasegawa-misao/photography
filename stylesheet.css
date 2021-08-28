@@ -2,6 +2,7 @@
 @media only screen and (max-width: 600px) {
     .pc { display: block !important; }
     .sp { display: none !important; }
+    }
 *{
   margin:0;
   padding:0;
