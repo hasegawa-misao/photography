@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
 @media screen (max-width:768px) {
+    .wrapper {
+      margin:0 auto;
+      }
   
     .grid {
       display:grid;
