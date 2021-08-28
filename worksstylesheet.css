@@ -4,9 +4,13 @@
     .wrapper grid {
         display:flex;
         flex-flow :column;
-       
-   
 }
+    .cearfix::after {
+  content: "";
+  display:block;
+  clear: both;
+}
+       
     
 }
 .wrapper {
@@ -25,6 +29,11 @@
     
 }
 
+.cearfix::after {
+  content: "";
+  display:block;
+  clear: both;
+}
 
 
 
