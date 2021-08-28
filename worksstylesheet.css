@@ -13,8 +13,8 @@
 
 .item {
     display: flex;
-    flex-flow: column ;
-    margin-bottom: 50px;
+ 　 justify-content: center;
+    align-items: center; 
      
      }
 
