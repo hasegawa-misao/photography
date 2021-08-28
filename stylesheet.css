@@ -1,8 +1,6 @@
 @charset "UTF-8";
 @media  (max-width: 600px) {
-   aside {
-      width:100%;
-      }
+ 
  
    
    
@@ -76,7 +74,8 @@ main {
   width:600px;  
   
 }
-
+.pc	{ display:inline; }
+.sp	{ display:none; }
 
 
 
