@@ -2,8 +2,8 @@
 
 @media (max-width: 768px) {
    .grid {
-      display:grid;
-      grid-template-colums: 1fr;
+      display: flex;
+      flex-flow: column;
       text-align: center;
    }
 
