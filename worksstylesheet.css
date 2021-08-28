@@ -2,7 +2,8 @@
 
 @media screen (max-width:768px) {
     .grid {
-        width:100%;
+        display:flex;
+        width:80%;
         }
         
 }
