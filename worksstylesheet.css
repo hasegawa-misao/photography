@@ -1,10 +1,10 @@
 @charset "UTF-8";
+
 @media screen (max-width:768px) {
-    .item {
-        width:60%;
-       
+    .grid {
+        width:100%;
         }
-    }
+        
 }
 .wrapper {
     max-width:600px;
