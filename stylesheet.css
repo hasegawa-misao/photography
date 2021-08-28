@@ -1,7 +1,6 @@
 @charset "UTF-8";
-@media screen and (max-width: 768px) {
-.pc	{ display:none; }
-.sp { display:inline; }
+@media  (max-width: 768px) {
+
 }
  
  
@@ -78,7 +77,7 @@ main {
   
 }
 .pc	{ display:inline; }
-.sp	{ display:none; }
+
 
 
 
