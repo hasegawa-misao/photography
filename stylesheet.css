@@ -1,5 +1,8 @@
 @charset "UTF-8";
-@media  (max-width: 600px) {
+@media screen and (max-width: 768px) {
+.pc	{ display:none; }
+.sp { display:inline; }
+}
  
  
    
