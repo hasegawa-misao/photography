@@ -67,11 +67,11 @@ aside {
 
 
 main {
-  widh:600px;
-  
+  widh:600px;  
   
 }
-
+.pc { display: block !important; }
+.sp { display: none !important; }
 
 
 
