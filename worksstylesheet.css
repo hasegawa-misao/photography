@@ -1,6 +1,9 @@
 @charset "UTF-8";
 @media screen (max-width:768px) {
-    flex-direction: column;
+    .item {
+        width:80%;
+        margin:0 auto;
+        }
     }
 }
 .wrapper {
