@@ -1,14 +1,11 @@
 @charset "UTF-8";
 
-@media screen (max-width:768px) {
+@media screen　(max width:768px) {
   .pc {
     display:none;
     }
   }
 
-
-
- 
  
 body{
   font-family:serif;
