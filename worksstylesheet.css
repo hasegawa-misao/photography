@@ -1,11 +1,7 @@
 @charset "UTF-8";
 
 @media screen (max-width:768px) {
-    .grid {
-        display:flex;
-        width:80%;
-        }
-        
+    
 }
 .wrapper {
     max-width:600px;
