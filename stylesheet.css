@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width:768px) {
+@media (max-width:768px) {
   .pc { 
     display:none;
     width:80%;
