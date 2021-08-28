@@ -2,9 +2,10 @@
 
 @media screen (max-width:768px) {
   
-    .item {
-        display:flex;
-        flex-direction:column;
+    .grid {
+      display:grid;
+      grid-template-culumns:1fr ;
+      margin-bottom:50px;
         
         
 }
