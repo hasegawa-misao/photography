@@ -2,8 +2,12 @@
 @media  (max-width: 600px) {
    aside {
       width:100%;
+      }
+   img src {
+      display:none;
+      }
    
-    }
+   
    }
 
 *{
