@@ -77,7 +77,7 @@ aside {
 
 
 
-.cearfix::after {
+.clearfix::after {
   content: "";
   display:block;
   clear: both;
