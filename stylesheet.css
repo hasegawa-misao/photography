@@ -18,7 +18,8 @@ body{
 
   
 }
-main {
+
+#contants {
   display:flex;
   justify-content: center;
 }
