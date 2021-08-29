@@ -60,6 +60,10 @@ aside {
 
 main {
   width:600px;
+  
+.pc {
+  display:flex;
+  justify-content: center;
 }
 
 
