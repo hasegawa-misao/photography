@@ -17,12 +17,7 @@ body{
   
 
   
-}
 
-#contents {
-  display:flex;
-  justify-content: center;
-}
 
 header {
   
@@ -62,6 +57,8 @@ aside {
 
 main {
   width:600px;  
+  display:flex;
+  flex-flow:center;
   
 }
 
