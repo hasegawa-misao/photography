@@ -59,6 +59,7 @@ main {
   width:600px;  
   display:flex;
   flex-flow:center;
+  margin-top:30%;
   
 }
 
