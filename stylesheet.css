@@ -14,9 +14,7 @@ body{
   padding:20px;
  
   
-#contents {
-  display:flex;
-  justify-content: center;
+
 
   
 
@@ -40,6 +38,7 @@ header {
   font-size:15px;
   margin-top:60px;
   padding-left:60px;
+  list-style: none;
   
   
 
@@ -58,13 +57,10 @@ aside {
 }
 
 
-main {
-  width:600px;  
+#contents {
   display:flex;
-  flex-flow:center;
-  margin-top:20px;
-  
-}
+  justify-content: center;
+
 
 @media (max-width:768px) {
      .pc {
